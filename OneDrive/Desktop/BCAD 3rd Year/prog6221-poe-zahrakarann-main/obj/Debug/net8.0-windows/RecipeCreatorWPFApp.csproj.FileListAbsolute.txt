@@ -1,0 +1,56 @@
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.exe
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.deps.json
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.dll
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.pdb
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp_MarkupCompile.cache
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp_MarkupCompile.lref
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.g.resources
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.dll
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\refint\RecipeCreatorWPFApp.dll
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.pdb
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\ref\RecipeCreatorWPFApp.dll
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\AddRecipeWindow.baml
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\AddRecipeWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\IngredientWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\StepWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\IngredientWindow.baml
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\ViewRecipesWindow.baml
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\ViewRecipesWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeCreatorWPFApp\obj\Debug\net8.0-windows\StepWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.exe
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.deps.json
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.runtimeconfig.json
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.dll
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\bin\Debug\net8.0-windows\RecipeCreatorWPFApp.pdb
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\AddRecipeWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\IngredientWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\ViewRecipesWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\AddRecipeWindow.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\IngredientWindow.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\StepWindow.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\ViewRecipesWindow.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp_MarkupCompile.cache
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp_MarkupCompile.lref
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\StepWindow.baml
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.g.resources
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.AssemblyInfoInputs.cache
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.AssemblyInfo.cs
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.dll
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\refint\RecipeCreatorWPFApp.dll
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.pdb
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\RecipeCreatorWPFApp.genruntimeconfig.cache
+C:\Users\Dr. Karan\OneDrive\Desktop\BCAD 3rd Year\prog6221-poe-zahrakarann-main\obj\Debug\net8.0-windows\ref\RecipeCreatorWPFApp.dll

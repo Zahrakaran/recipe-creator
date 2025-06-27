@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RecipeCreatorWPFApp/1.0.0": {
+        "runtime": {
+          "RecipeCreatorWPFApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecipeCreatorWPFApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

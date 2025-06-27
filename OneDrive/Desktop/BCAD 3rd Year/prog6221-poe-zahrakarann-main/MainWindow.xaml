@@ -1,0 +1,26 @@
+﻿<Window x:Class="RecipeCreatorWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeCreatorWPFApp"
+        xmlns:vm="clr-namespace:RecipeCreatorWPFApp.ViewModels"
+        mc:Ignorable="d"
+        Title="Recipe Creator" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Greetings chef :) Welcome to the Recipe Creator App!"
+                   FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="10"/>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Add a New Recipe" Width="200" Height="40" Margin="10" Command="{Binding AddNewRecipeCommand}"/>
+            <Button Content="View Previous Recipes" Width="200" Height="40" Margin="10" Command="{Binding ViewRecipesCommand}"/>
+            <Button Content="Exit" Width="200" Height="40" Margin="10" Command="{Binding ExitCommand}"/>
+        </StackPanel>
+    </Grid>
+</Window>
